@@ -1,5 +1,4 @@
 // KAUSTAV DAS SHARMA
-// 260772982
 #include <stdio.h>
 #include <string.h>
 
